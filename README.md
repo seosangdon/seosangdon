@@ -2,7 +2,6 @@
 
 <h1 align="center"><b>🛠 Tech Stack 🛠</b></h1>
 </br>
-
 <p align ="center">
 <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=b8dff8"/></a> &nbsp
 <img src="https://img.shields.io/badge/Dart-199ED9?style=flat-square&logo=Dart&logoColor=02569b"/></a> &nbsp
