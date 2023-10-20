@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving!&color=gradient&height=300&section=header&text=SangWon%20Seo&fontAlign=70&fontSize=70&fontAlignY=30&fontColor=ffbf00)
-![header](https://capsule-render.vercel.app/api?text=Hello%World!&fontSize=40&desc=Desc&descSize=30)
 ### SangWon Seo 👋
 
 <!--
